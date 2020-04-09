@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\ImpostoPagoPorContribuinte\ImpostoPagoPorContribuinte\bin\Debug\netcoreapp3.1\ImpostoPagoPorContribuinte.exe
+C:\Users\aalima5\Desktop\Code C#\ImpostoPagoPorContribuinte\ImpostoPagoPorContribuinte\bin\Debug\netcoreapp3.1\ImpostoPagoPorContribuinte.deps.json
+C:\Users\aalima5\Desktop\Code C#\ImpostoPagoPorContribuinte\ImpostoPagoPorContribuinte\bin\Debug\netcoreapp3.1\ImpostoPagoPorContribuinte.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\ImpostoPagoPorContribuinte\ImpostoPagoPorContribuinte\bin\Debug\netcoreapp3.1\ImpostoPagoPorContribuinte.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\ImpostoPagoPorContribuinte\ImpostoPagoPorContribuinte\bin\Debug\netcoreapp3.1\ImpostoPagoPorContribuinte.dll
+C:\Users\aalima5\Desktop\Code C#\ImpostoPagoPorContribuinte\ImpostoPagoPorContribuinte\bin\Debug\netcoreapp3.1\ImpostoPagoPorContribuinte.pdb
+C:\Users\aalima5\Desktop\Code C#\ImpostoPagoPorContribuinte\ImpostoPagoPorContribuinte\obj\Debug\netcoreapp3.1\ImpostoPagoPorContribuinte.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\ImpostoPagoPorContribuinte\ImpostoPagoPorContribuinte\obj\Debug\netcoreapp3.1\ImpostoPagoPorContribuinte.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ImpostoPagoPorContribuinte\ImpostoPagoPorContribuinte\obj\Debug\netcoreapp3.1\ImpostoPagoPorContribuinte.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ImpostoPagoPorContribuinte\ImpostoPagoPorContribuinte\obj\Debug\netcoreapp3.1\ImpostoPagoPorContribuinte.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\ImpostoPagoPorContribuinte\ImpostoPagoPorContribuinte\obj\Debug\netcoreapp3.1\ImpostoPagoPorContribuinte.dll
+C:\Users\aalima5\Desktop\Code C#\ImpostoPagoPorContribuinte\ImpostoPagoPorContribuinte\obj\Debug\netcoreapp3.1\ImpostoPagoPorContribuinte.pdb
+C:\Users\aalima5\Desktop\Code C#\ImpostoPagoPorContribuinte\ImpostoPagoPorContribuinte\obj\Debug\netcoreapp3.1\ImpostoPagoPorContribuinte.genruntimeconfig.cache
